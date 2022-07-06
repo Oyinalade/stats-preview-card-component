@@ -84,6 +84,7 @@ p.uppercase {
   font-size: 11px;
   text-align: center;
   padding: 10px;
+  color:#fff 0.5;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);

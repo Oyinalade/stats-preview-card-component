@@ -35,7 +35,7 @@ body {
 }
 .card {
   background: hsl(244, 38%, 16%);
-  width: 18.5rem;
+  width: 18.75rem;
   padding: 30px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;

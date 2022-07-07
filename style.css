@@ -92,7 +92,7 @@ p.uppercase {
 @media (max-width: 500px) {
   .container {
     flex-direction: column-reverse;
-    margin: 50px;
+    margin:100px 0 50px 0;
   }
 
   .card {

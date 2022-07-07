@@ -114,7 +114,4 @@ p.uppercase {
   .info {
     flex-direction: column;
   }
-  .attribution {
-    margin-left: 100px;
-  }
 }

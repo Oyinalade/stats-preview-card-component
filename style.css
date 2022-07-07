@@ -84,12 +84,12 @@ p.uppercase {
   font-size: 11px;
   text-align: center;
   padding: 10px;
-  color:#fff 0.5;
+  color: rgb(18, 20, 151);
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .container {
     flex-direction: column-reverse;
   }
